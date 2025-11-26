@@ -1,5 +1,5 @@
 # Obstacle-Avoidance
-This is a robot that avoids walls or any object that acts as an obstruction to it
+This is a robot that avoids walls or any object that acts as an obstruction to it. <br>
 This project was built under the guidance of Mr. Brijesh CA, the CEO of Just Robotics
 
 ## Components that I have used:
