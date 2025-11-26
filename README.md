@@ -1,4 +1,4 @@
-# Obstacle-Avoidance
+# Wall_Avoidance_Robot
 This is a robot that avoids walls or any object that acts as an obstruction to it. <br>
 This project was built under the guidance of Mr. Brijesh CA, the CEO of Just Robotics
 
